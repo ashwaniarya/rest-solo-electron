@@ -1,0 +1,15 @@
+{
+  "name": "rest-solo",
+  "version": "1.0.0",
+  "description": "GUI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Ashwani Arya",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.3"
+  }
+}
